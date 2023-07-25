@@ -1,5 +1,4 @@
 #include "main.h"
-#incluse <studio> 
 
 /**
  * get_size - Calculates the size to cast the argument
